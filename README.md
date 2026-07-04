@@ -41,3 +41,4 @@ Default model is set via `OPENROUTER_MODEL` in `backend/.env` (see `backend/.env
 ## Developers
 
 - GitHub: @theyeeman
+- GitHub: @rajpatel2435
