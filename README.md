@@ -37,3 +37,7 @@ Open http://localhost:3000 — the dev server proxies `/api/*` to the backend.
 - `POST /api/chat/stream` — same body, SSE streaming response
 
 Default model is set via `OPENROUTER_MODEL` in `backend/.env` (see `backend/.env.example`).
+
+## Developers
+
+- GitHub: @theyeeman
